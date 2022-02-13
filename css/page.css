@@ -67,20 +67,24 @@ h2 {
 }
 
 .row {
-    width: 100%;
+    width: 103%;
     display: flex;
     flex-direction: row;
     justify-content: center; 
-    max-width: 140em;  
+    max-width: i40em;  
+    
 }
 .twitter-handle {
     width: 100px;
+
 }
 .email {
     width: 100px;
+    
 }
 .github-page {
     width: 100px;
+
 }
 
 .footer {
